@@ -296,3 +296,86 @@ footer main img{
     object-fit: cover;
     margin-top: 50px;
 }
+.veelgestelde_vragen_title{
+    background-color: #EBD69B;
+    color:#373250;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+.extra_activiteiten_header{
+    background-color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #373250;
+    text-align: center;
+    margin: 100px;
+    margin-top: 100px;
+}
+.extra_activiteiten_title{
+    background-color: #EBD69B;
+    color:#373250;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+.extra_activiteiten_box{
+    padding: 20px;
+    background-color: #49445C;
+    margin-top: 200px;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 200px;
+}
+.extra_activiteiten_box ul{
+    list-style: none;
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.extra_activiteiten_box ul li{
+    width: 50%;
+    margin-bottom: 200px;
+}
+.extra_activiteiten_box ul li header{
+    background-color: #49445C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 64px;
+}
+.extra_activiteiten_box ul li p{
+    margin-right: 100px;
+}
+.extra_activiteiten_box ul img{
+    width: 600px;
+}
+.extra_activiteiten_box article{
+    margin: 50px;
+}
+.extra_activiteiten_box article header{
+    background-color: #49445C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 64px;
+}
+.contact_title{
+    background-color: #EBD69B;
+    color:#373250;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
