@@ -216,3 +216,83 @@ footer main img{
     align-content: center;
     margin: 200px;
 }
+.gids_en_tips_title{
+    background-color: #EBD69B;
+    color:#373250;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+.gids_en_tips1-box{
+    margin: 100px;
+    background-color: #49445C;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.gids_en_tips1-box header{
+    background-color: #49445C;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 64px;
+}
+.gids_en_tips1-box article{
+    display: flex;
+    gap: 30px;
+    margin: 100px;
+}
+.gids_en_tips1-box aside img{
+    width: 500px;
+}
+.gids_en_tips1-box footer{
+    background-color: #49445C;
+}
+.gids_en_tips2-box{
+    margin: 100px;
+    background-color: #49445C;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.gids_en_tips2-box header{
+    background-color: #49445C;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 64px;
+}
+.gids_en_tips2-box article{
+    display: flex;
+    gap: 30px;
+    margin: 100px;
+}
+.gids_en_tips2-box aside img{
+    width: 500px;
+}
+.gids_en_tips2-box footer{
+    background-color: #49445C;
+}
+.gids_en_tips2-box footer p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.gids_en_tips2-box footer img{
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    margin-top: 50px;
+}
