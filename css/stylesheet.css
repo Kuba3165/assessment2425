@@ -379,3 +379,33 @@ footer main img{
     font-size: 100px;
     margin-bottom: 100px;
 }
+.veelgestelde_vragen_box{
+    padding: 20px;
+    background-color: #49445C;
+    margin-top: 200px;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 200px;
+}
+.veelgestelde_vragen_box h2{
+    text-align: center;
+    margin-top: 50px;
+}
+.veelgestelde_vragen_box ul li{
+    background-color:#EBD69B;
+    margin: 50px;
+    list-style: none;
+    color: #373250;
+    padding: 25px;
+    border-radius: 10px;
+}
+.veelgestelde_vragen_box ul li header{
+    background-color: #EBD69B;
+}
+.veelgestelde_vragen_box img{
+    width: 40%;
+    margin: 50px;
+}
