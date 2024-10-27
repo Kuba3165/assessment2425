@@ -38,19 +38,31 @@ nav ul li a:hover{
     background-color: #fcc432;
     color: #373250;
 }
+nav ul li a:active{
+    color: floralwhite;
+}
+nav ul li a:visited{
+    color:aliceblue;
+}
 h1{
-    padding: 100px;
     background-color: #373250;
     color: #EFE1BA;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 100px;
     margin-top: 50px;
+    border-color: #fcc432;
+    border-style: double;
+    border-width: 5px;
 }
 footer{
     background-color: #373250;
     text-align: center;
-    padding: 75px;
+    letter-spacing: 2px;
+    text-indent: 50px;
+}
+footer, h1{
+    padding: 100px;
 }
 footer p{
     font-size: 30px;
@@ -87,7 +99,7 @@ footer main img{
     display: flex;
     margin: 50px;
 }
-.home1-box article p{
+.home1-box article, p{
     margin: 30px;
 }
 .home1-box article aside img{
@@ -149,6 +161,7 @@ footer main img{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 100px;
+    word-spacing: 20px;
 }
 .info_scholen1-box{
     padding: 20px;
@@ -223,6 +236,7 @@ footer main img{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 100px;
     margin-bottom: 100px;
+    word-spacing: 20px;
 }
 .gids_en_tips1-box{
     margin: 100px;
@@ -303,6 +317,7 @@ footer main img{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 100px;
     margin-bottom: 100px;
+    word-spacing: 20px;
 }
 .extra_activiteiten_header{
     background-color:#ECE3CA;
@@ -322,6 +337,7 @@ footer main img{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 100px;
     margin-bottom: 100px;
+    word-spacing: 20px;
 }
 .extra_activiteiten_box{
     padding: 20px;
@@ -409,3 +425,44 @@ footer main img{
     width: 40%;
     margin: 50px;
 }
+.contact1_box{
+    margin: 50px;
+    background-color: #49445C;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.contact1_box header{
+    background-color: #49445C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 64px;
+}
+.contact1_box article{
+    margin: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    width: 20%;
+}
+.contact1_box footer{
+    background-color: #49445C;
+}
+.contact1_box footer p{
+    background-color: #49445C;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-right:120px;
+}
+.cookies{
+    z-index: 9999;
+    background-color: aqua ;
+}
+/* comment */
