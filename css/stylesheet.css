@@ -461,8 +461,25 @@ footer main img{
     line-height: 24px;
     margin-right:120px;
 }
+.contact2_box{
+    margin: 50px;
+    background-color: #49445C;
+    color:#ECE3CA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
 .cookies{
     z-index: 9999;
     background-color: aqua ;
+}
+@media screen and (max-width: 768px) {
+    body{
+        width: 100%;
+    }
+    .contact2_box{
+        display: none;
+    }
 }
 /* comment */
